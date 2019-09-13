@@ -1,10 +1,10 @@
 # 2dDungeonGenerator
 In this project i made a 2d random dungeon generator
 
-#Features
+# Features
 
-#Goals
+# Goals
 
-#Planning
+# Planning
 
-#Sources
+# Sources
